@@ -14,6 +14,12 @@
 
 ## USAGE:
 
+📌apt update
+
+📌pkg install tor
+
+📌pkg install git
+
 📌git clone https://github.com/VEDAVYASAN/numberoban
 
 📌cd numberoban
