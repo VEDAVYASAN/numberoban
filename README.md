@@ -5,3 +5,10 @@
 :)This is the only tool working perfectly now.
 
 Greetingzz from bl4ck_gh057
+
+#USAGE
+
+this tool is very simple to run by following this steps.
+git clone https://github.com/VEDAVYASAN/numberoban
+bash numberban.sh
+
