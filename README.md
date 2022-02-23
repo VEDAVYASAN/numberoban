@@ -12,6 +12,8 @@ this tool is very simple to run by following this steps.
 
 1.git clone https://github.com/VEDAVYASAN/numberoban
 
+2.cd numberoban
+
 2.bash numberban.sh
 
 
