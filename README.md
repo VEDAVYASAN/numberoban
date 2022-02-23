@@ -8,7 +8,7 @@
 
 🎯Greetingzz from bl4ck_gh057.
 
-## USAGE
+## USAGE:
 
 📌git clone https://github.com/VEDAVYASAN/numberoban
 
