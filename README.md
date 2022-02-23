@@ -6,8 +6,15 @@
 
 🎯This is the only tool working perfectly now.
 
-Greetingzz from bl4ck_gh057.
+🎯Greetingzz from bl4ck_gh057.
 
+## USAGE
+
+📌git clone https://github.com/VEDAVYASAN/numberoban
+
+📌cd numberoban
+
+📌bash numberban.sh
 
 
 
