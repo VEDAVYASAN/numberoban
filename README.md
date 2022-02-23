@@ -9,6 +9,9 @@ Greetingzz from bl4ck_gh057
 #USAGE
 
 this tool is very simple to run by following this steps.
-git clone https://github.com/VEDAVYASAN/numberoban
-bash numberban.sh
+
+1.git clone https://github.com/VEDAVYASAN/numberoban
+
+2.bash numberban.sh
+
 
